@@ -1,0 +1,8 @@
+A Pokémon team-type effectiveness calculator.
+
+USAGE:
+
+Input the numbers corresponding to the types in your team one by one.
+When you are finished, input a number equal to 18 or higher and the 
+calculator will output a full list of which types and typecombinations 
+your team is and isn't supereffective against.
